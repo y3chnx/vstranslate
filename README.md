@@ -48,5 +48,6 @@ docker run -p 8000:8000 vstranslate
 ## Usage
 
 Type your code and translate!
+<br>
 <img src="screenshot.png">
 
