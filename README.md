@@ -2,8 +2,7 @@
 
 > Visual Studio Translate: A Translator of Programming Languages
 
-![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Python-yellow) ![Framework](https://img.shields.io/badge/framework-llama-cpp-orange) ![GitHub](https://img.shields.io/badge/GitHub-y3chnx/vstranslate-black?logo=github) ![Build Status](https://img.shields.io/github/actions/workflow/status/y3chnx/vstranslate/ci.yml?branch=main)
-
+![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Python-yellow) ![Framework](https://img.shields.io/badge/framework-llama-cpp-orange) ![GitHub](https://img.shields.io/badge/GitHub-y3chnx/vstranslate-black?logo=github) 
 ## 📋 Table of Contents
 
 - [Features](#features)
