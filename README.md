@@ -44,6 +44,10 @@ Run Docker Container:
 ```
 docker run -p 8000:8000 vstranslate
 ```
+Open localhost:8000 in your browser:
+```
+http://localhost:8000
+```
 
 ## Usage
 
