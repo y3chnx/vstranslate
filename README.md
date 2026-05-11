@@ -4,9 +4,6 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Python-yellow) ![Framework](https://img.shields.io/badge/framework-llama-cpp-orange) ![GitHub](https://img.shields.io/badge/GitHub-y3chnx/vstranslate-black?logo=github) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pkbcvEi3Dl4?si=PnwkiArlPaiv-_B1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 ## 📋 Table of Contents
 
 - [Features](#features)
@@ -17,7 +14,8 @@
 
 - **👤 Author:** y3chnx
 - **📄 License:** MIT
-- **📂 Repository:** [https://github.com/y3chnx/vstranslate](https://github.com/y3chnx/vstranslate)
+- **📂 Repository:** [Github Repo](https://github.com/y3chnx/vstranslate)
+- **🎥 Youtube:** [Youtube Video](https://www.youtube.com/watch?v=pkbcvEi3Dl4)
 
 ## Features
 
